@@ -40,6 +40,7 @@ public class Encrypt {
     //Random noise vector e <-- \chi^N
 
 
+        //dgi = dgz.Dgi(q, sigma=sigma)
 
     System.out.println(vector_s);
     System.out.println(A);
