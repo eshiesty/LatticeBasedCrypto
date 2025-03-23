@@ -9,5 +9,10 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="ejml-core" level="project" />
     <orderEntry type="library" name="ejml-simple" level="project" />
+    <orderEntry type="library" name="ejml-cdense-0.44.0" level="project" />
+    <orderEntry type="library" name="ejml-dsparse-0.44.0" level="project" />
+    <orderEntry type="library" name="ejml-fdense-0.44.0" level="project" />
+    <orderEntry type="library" name="ejml-ddense-0.44.0" level="project" />
+    <orderEntry type="library" name="ejml-zdense-0.44.0" level="project" />
   </component>
 </module>

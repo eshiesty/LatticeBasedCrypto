@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ejml-fdense-0.44.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ejml-fdense-0.44.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
